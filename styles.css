@@ -97,7 +97,7 @@ body{
         align-items: start;
         text-align: left;
         column-gap: 0;
-        align-items: center;
+        margin-left: 0px;
     }
     .container-1, .container-2{
         display: flex;
